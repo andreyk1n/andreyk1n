@@ -24,14 +24,13 @@ Always learning, always experimenting — if you have a cool project idea, let's
 
 ## 🛠️ Tech Stack
 
-- **HTML & CSS** – Clean, semantic, accessible markup  
-- **SCSS** – Modular and scalable styling  
-- **Bootstrap / Tailwind / Materialize** – Rapid and flexible UI development  
-- **JavaScript & jQuery** – Dynamic interfaces, animations, and logic  
-- **React** – Component-based architecture for modern apps  
-- **WordPress** – I create responsive themes and custom templates, develop plugins for specific needs, work with databases (MySQL), optimize performance, and improve website SEO.
-- **Figma** – Pixel-perfect implementation from design to code  
-
+- **HTML & CSS** – Clean, semantic, accessible markup
+- **SCSS** – Modular and scalable styling
+- **Bootstrap / Tailwind / Materialize** – Rapid and flexible UI development
+- **JavaScript & jQuery** – Dynamic interfaces, animations, and logic
+- **React** – Component-based architecture for modern apps
+- **WordPress** – Responsive themes, custom templates & plugins, database (MySQL) work, performance & SEO optimization
+- **Figma** – Pixel-perfect implementation from design to code
 ---
 
 ## ⚡ Fun Fact
